@@ -63,7 +63,7 @@ async function main(){
     console.log()
     
     const githubLink = link('btw its awesome -> ','https://github.com/VineeTagarwaL-code');
-    const websiteLInk = link('Coolest thing -> ','https://vineet.tech');
+    const websiteLInk = link('Coolest thing -> ','https://www.vineet.pro');
     console.log(`NAME    `.green + ' - ' + 'Vineet Agarwal'.cyan);
     console.log(`STATUS  `.green + ' - ' + 'Student'.cyan);
     console.log(`GITHUB  `.green + ' - ' + `${githubLink}`.cyan);
